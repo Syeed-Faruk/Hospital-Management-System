@@ -13,27 +13,27 @@ The application supports multiple user roles, allowing administrators to manage 
 
 ✨**Key Features:**
 
-1)Secure User Authentication
+1) Secure User Authentication
 
-2)Role-Based Access Control
+2) Role-Based Access Control
 
-3)Patient Registration and Management
+3) Patient Registration and Management
 
-4)Doctor Management
+4) Doctor Management
 
-5)Appointment Scheduling System
+5) Appointment Scheduling System
 
-6)Medical Record Management
+6) Medical Record Management
 
-7)Prescription Generation
+7) Prescription Generation
 
-8)Medicine Inventory Management
+8) Medicine Inventory Management
 
-9)Billing and Payment Tracking
+9) Billing and Payment Tracking
 
-10)Dashboard for Hospital Operations
+10) Dashboard for Hospital Operations
 
-11)Centralized Database Management
+11) Centralized Database Management
 
 🏗️**System Architecture:**
 
@@ -41,94 +41,94 @@ The application follows a modular architecture where each component is responsib
 
 **Major modules include:**
 
-1)Authentication Module
+1) Authentication Module
 
-2)Admin Module
+2) Admin Module
 
-3)Doctor Module
+3) Doctor Module
 
-4)Patient Module
+4) Patient Module
 
-5)Appointment Module
+5) Appointment Module
 
-6)Medical Records Module
+6) Medical Records Module
 
-7)Prescription Module
+7) Prescription Module
 
-8)Billing Module
+8) Billing Module
 
-9)Payment Module
+9) Payment Module
 
 
 🔄**Workflow:**
 
-1)Administrator registers doctors and patients.
+1) Administrator registers doctors and patients.
 
-2)Patients log into the system and book appointments.
+2) Patients log into the system and book appointments.
 
-3)Doctors view and manage scheduled appointments.
+3) Doctors view and manage scheduled appointments.
 
-4)Medical records are created after consultation.
+4) Medical records are created after consultation.
 
-5)Prescriptions are generated and stored.
+5) Prescriptions are generated and stored.
 
-6)Billing information is automatically maintained.
+6) Billing information is automatically maintained.
 
-7)Payments are recorded and tracked.
+7) Payments are recorded and tracked.
 
-8)All data is stored securely for future access.
+8) All data is stored securely for future access.
 
 
 🎯 **Objectives**
 
-1)Digitize hospital operations.
+1) Digitize hospital operations.
 
-2)Reduce manual paperwork.
+2) Reduce manual paperwork.
 
-3)Improve record accessibility.
+3) Improve record accessibility.
 
-4)Enhance appointment management.
+4) Enhance appointment management.
 
-5)Provide efficient patient care management.
+5) Provide efficient patient care management.
 
-6)Maintain accurate billing and payment records.
+6) Maintain accurate billing and payment records.
 
-7)Create a scalable healthcare management solution.
+7) Create a scalable healthcare management solution.
 
 
 🚀**Future Enhancements:**
 
-1)Online Payment Gateway Integration
+1) Online Payment Gateway Integration
 
-2)Email and SMS Notifications
+2) Email and SMS Notifications
 
-3)Telemedicine Support
+3) Telemedicine Support
 
-4)Laboratory Management Module
+4) Laboratory Management Module
 
-5)Pharmacy Management Module
+5) Pharmacy Management Module
 
-6)Doctor Availability Tracking
+6) Doctor Availability Tracking
 
-7)Cloud Deployment
+7) Cloud Deployment
 
-8)Mobile Application Support
+8) Mobile Application Support
 
-9)Analytics and Reporting Dashboard
+9) Analytics and Reporting Dashboard
 
 
 💡 **Project Highlights**
 
-1)Full-stack web development project
+1) Full-stack web development project
 
-2)Real-world healthcare management use case
+2) Real-world healthcare management use case
 
-3)Multi-user role implementation
+3) Multi-user role implementation
 
-4)Database-driven application
+4) Database-driven application
 
-5)Scalable and modular architecture
+5) Scalable and modular architecture
 
-6)CRUD operations across multiple entities
+6) CRUD operations across multiple entities
 
-Secure data management
+7) Secure data management
