@@ -19,21 +19,21 @@ The application supports multiple user roles, allowing administrators to manage 
 
 3)Patient Registration and Management
 
-Doctor Management
+4)Doctor Management
 
-Appointment Scheduling System
+5)Appointment Scheduling System
 
-Medical Record Management
+6)Medical Record Management
 
-Prescription Generation
+7)Prescription Generation
 
-Medicine Inventory Management
+8)Medicine Inventory Management
 
-Billing and Payment Tracking
+9)Billing and Payment Tracking
 
-Dashboard for Hospital Operations
+10)Dashboard for Hospital Operations
 
-Centralized Database Management
+11)Centralized Database Management
 
 🏗️ System Architecture
 
@@ -41,94 +41,94 @@ The application follows a modular architecture where each component is responsib
 
 Major modules include:
 
-Authentication Module
+1)Authentication Module
 
-Admin Module
+2)Admin Module
 
-Doctor Module
+3)Doctor Module
 
-Patient Module
+4)Patient Module
 
-Appointment Module
+5)Appointment Module
 
-Medical Records Module
+6)Medical Records Module
 
-Prescription Module
+7)Prescription Module
 
-Billing Module
+8)Billing Module
 
-Payment Module
+9)Payment Module
 
 
 🔄 Workflow
 
-Administrator registers doctors and patients.
+1)Administrator registers doctors and patients.
 
-Patients log into the system and book appointments.
+2)Patients log into the system and book appointments.
 
-Doctors view and manage scheduled appointments.
+3)Doctors view and manage scheduled appointments.
 
-Medical records are created after consultation.
+4)Medical records are created after consultation.
 
-Prescriptions are generated and stored.
+5)Prescriptions are generated and stored.
 
-Billing information is automatically maintained.
+6)Billing information is automatically maintained.
 
-Payments are recorded and tracked.
+7)Payments are recorded and tracked.
 
-All data is stored securely for future access.
+8)All data is stored securely for future access.
 
 
 🎯 Objectives
 
-Digitize hospital operations.
+1)Digitize hospital operations.
 
-Reduce manual paperwork.
+2)Reduce manual paperwork.
 
-Improve record accessibility.
+3)Improve record accessibility.
 
-Enhance appointment management.
+4)Enhance appointment management.
 
-Provide efficient patient care management.
+5)Provide efficient patient care management.
 
-Maintain accurate billing and payment records.
+6)Maintain accurate billing and payment records.
 
-Create a scalable healthcare management solution.
+7)Create a scalable healthcare management solution.
 
 
 🚀 Future Enhancements
 
-Online Payment Gateway Integration
+1)Online Payment Gateway Integration
 
-Email and SMS Notifications
+2)Email and SMS Notifications
 
-Telemedicine Support
+3)Telemedicine Support
 
-Laboratory Management Module
+4)Laboratory Management Module
 
-Pharmacy Management Module
+5)Pharmacy Management Module
 
-Doctor Availability Tracking
+6)Doctor Availability Tracking
 
-Cloud Deployment
+7)Cloud Deployment
 
-Mobile Application Support
+8)Mobile Application Support
 
-Analytics and Reporting Dashboard
+9)Analytics and Reporting Dashboard
 
 
 💡 Project Highlights
 
-Full-stack web development project
+1)Full-stack web development project
 
-Real-world healthcare management use case
+2)Real-world healthcare management use case
 
-Multi-user role implementation
+3)Multi-user role implementation
 
-Database-driven application
+4)Database-driven application
 
-Scalable and modular architecture
+5)Scalable and modular architecture
 
-CRUD operations across multiple entities
+6)CRUD operations across multiple entities
 
 Secure data management
