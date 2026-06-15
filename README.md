@@ -40,6 +40,7 @@ Billing Module
 Payment Module
 🔄 Workflow
 Administrator registers doctors and patients.
+
 Patients log into the system and book appointments.
 Doctors view and manage scheduled appointments.
 Medical records are created after consultation.
