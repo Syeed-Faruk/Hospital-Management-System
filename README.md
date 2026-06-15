@@ -12,11 +12,12 @@ Managing hospital records manually can be time-consuming and prone to errors. Th
 The application supports multiple user roles, allowing administrators to manage the system, doctors to handle patient care, and patients to access their healthcare information from a single platform.
 
 ✨ Key Features:
-Secure User Authentication
 
-Role-Based Access Control
+1)Secure User Authentication
 
-Patient Registration and Management
+2)Role-Based Access Control
+
+3)Patient Registration and Management
 
 Doctor Management
 
@@ -131,5 +132,3 @@ Scalable and modular architecture
 CRUD operations across multiple entities
 
 Secure data management
-
-The Hospital Management System is a comprehensive web-based solution that demonstrates the implementation of modern web development concepts to solve real-world healthcare management challenges. The project provides a strong foundation for future expansion into a complete hospital automation platform.
