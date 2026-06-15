@@ -1,17 +1,17 @@
 # Hospital-Management-System
-🏥 Hospital Management System
+🏥** Hospital Management System**
 
 A full-stack web application designed to simplify and automate hospital operations by providing a centralized platform for managing patients, doctors, appointments, medical records, prescriptions, billing, and payments.
 
 The system aims to improve efficiency, reduce paperwork, and provide seamless communication between administrators, doctors, and patients through an easy-to-use web interface.
 
-📖 About The Project
+📖 **About The Project**
 
 Managing hospital records manually can be time-consuming and prone to errors. The Hospital Management System digitizes these processes by providing a secure and organized platform where users can access and manage healthcare information in real time.
 
 The application supports multiple user roles, allowing administrators to manage the system, doctors to handle patient care, and patients to access their healthcare information from a single platform.
 
-✨ Key Features:
+✨** Key Features:**
 
 1)Secure User Authentication
 
@@ -35,7 +35,7 @@ The application supports multiple user roles, allowing administrators to manage 
 
 11)Centralized Database Management
 
-🏗️ System Architecture
+🏗️** System Architecture**
 
 The application follows a modular architecture where each component is responsible for a specific functionality. Different modules communicate with each other to ensure smooth hospital operations.
 
@@ -60,7 +60,7 @@ Major modules include:
 9)Payment Module
 
 
-🔄 Workflow
+🔄** Workflow**
 
 1)Administrator registers doctors and patients.
 
@@ -79,7 +79,7 @@ Major modules include:
 8)All data is stored securely for future access.
 
 
-🎯 Objectives
+🎯 **Objectives**
 
 1)Digitize hospital operations.
 
@@ -96,7 +96,7 @@ Major modules include:
 7)Create a scalable healthcare management solution.
 
 
-🚀 Future Enhancements
+🚀** Future Enhancements**
 
 1)Online Payment Gateway Integration
 
@@ -117,7 +117,7 @@ Major modules include:
 9)Analytics and Reporting Dashboard
 
 
-💡 Project Highlights
+💡 **Project Highlights**
 
 1)Full-stack web development project
 
